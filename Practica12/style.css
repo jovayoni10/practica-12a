@@ -1,0 +1,33 @@
+body{
+ background-image: url(img/fondo.jpg);
+ background-repeat: none;
+ background-size: cover;
+ margin:0;
+}
+img{
+    align-items: center;
+    height: 100px;
+    width: 120px;
+    background-color: rgb(217, 217, 230);
+    margin-top: 15px;
+}
+div{
+    text-align: center;
+    color: rgb(10, 9, 8);
+}
+a {
+    margin-top: 30px;
+    text-align: center;
+    display: block;
+    text-decoration: blue;
+    color: rgb(16, 19, 19);
+    font-size: 1.2m;
+}
+nav{
+    display: block;
+        color: white;
+        text-align: center;
+        padding: 10px;
+        text-decoration: rgb(31, 12, 31);
+}
+       
